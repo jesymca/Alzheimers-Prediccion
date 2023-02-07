@@ -1,7 +1,7 @@
 ## Grant Gasser
 ## Created 2/26/2019
 
-## Ordinal Regression on ADNI Q3 Data
+## Ordinal Regression on ADNI Q3 Data COPIADO
 
 #### DATA DESCRIPTION ####
 '''
